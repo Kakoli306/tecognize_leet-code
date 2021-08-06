@@ -1,1 +1,2 @@
-# tecognize_leet-code
+# Home-Work
+https://leetcode.com/problems/two-sum/submissions/
